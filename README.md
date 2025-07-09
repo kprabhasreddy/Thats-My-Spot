@@ -212,6 +212,8 @@ docker run -p 8080:8080 thatsmyspot
 
 <img width="1792" alt="Screenshot 2025-07-09 at 12 46 26 AM" src="https://github.com/user-attachments/assets/0c93487e-d67d-4f5d-b0e2-1a88648fdd32" />
 <img width="1792" alt="Screenshot 2025-07-09 at 12 46 10 AM" src="https://github.com/user-attachments/assets/b8710c2f-2b5a-4575-8570-257a7f3d12ab" />
+<img width="1816" alt="Screenshot 2025-07-09 at 12 48 54 AM" src="https://github.com/user-attachments/assets/43991f2e-8323-48c8-a913-fe0d3722ab7e" />
+
 
 
 
